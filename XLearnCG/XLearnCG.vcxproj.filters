@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Window">
+      <UniqueIdentifier>{c26323e5-3a55-4322-a29d-eb9327e17db7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphing">
+      <UniqueIdentifier>{90704d8c-de17-435d-ac70-74f05ef0de75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphing\BasicUnit">
+      <UniqueIdentifier>{3e1ef23a-7780-4210-b0e8-ca6c20fa2648}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Transforming">
+      <UniqueIdentifier>{97ead749-a8fa-4076-985c-6cc3fed5da71}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="XWindow.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="XGraph.h">
+      <Filter>Graphing</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicUnit.h">
+      <Filter>Graphing\BasicUnit</Filter>
+    </ClInclude>
+    <ClInclude Include="XTransform.h">
+      <Filter>Transforming</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="XWindow.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="XGraph.cpp">
+      <Filter>Graphing</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicUnit.cpp">
+      <Filter>Graphing\BasicUnit</Filter>
+    </ClCompile>
+    <ClCompile Include="XTransform.cpp">
+      <Filter>Transforming</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿  XGraph.cpp
+E:\学习计算机图形学\XLearnCG\XLearnCG\XGraph.cpp(73,19): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+E:\学习计算机图形学\XLearnCG\XLearnCG\XGraph.cpp(74,19): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+E:\学习计算机图形学\XLearnCG\XLearnCG\XGraph.cpp(75,19): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+E:\学习计算机图形学\XLearnCG\XLearnCG\XGraph.cpp(130,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习计算机图形学\XLearnCG\XLearnCG\XGraph.cpp(131,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\学习计算机图形学\XLearnCG\XLearnCG\XGraph.cpp(194,20): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+E:\学习计算机图形学\XLearnCG\XLearnCG\XGraph.cpp(195,20): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+E:\学习计算机图形学\XLearnCG\XLearnCG\XGraph.cpp(196,20): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  XLearnCG.vcxproj -> E:\学习计算机图形学\XLearnCG\x64\Debug\XLearnCG.exe
